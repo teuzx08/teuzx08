@@ -32,12 +32,10 @@
 
 <br clear="both">
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teuzx08/teuzx08/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teuzx08/teuzx08/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=teuzx08&show_icons=true&theme=radial" alt="Estatísticas do GitHub" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/teuzx08/teuzx08/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/teuzx08/teuzx08/pacman-output/breakout-contribution-graph.svg">
+  <img alt="Breakout Contribution Graph" src="https://raw.githubusercontent.com/teuzx08/teuzx08/pacman-output/breakout-contribution-graph.svg" width="100%">
 </picture>
 
 ###
