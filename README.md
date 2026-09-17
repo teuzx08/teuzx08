@@ -2,8 +2,6 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://avatars.githubusercontent.com/u/196468537?s=400&u=921142886ddd6782127168a1732690489f44ff12&v=4"  />
-
 ###
 
 <div data-importer="techs" align="left">
